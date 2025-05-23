@@ -39,11 +39,9 @@ This was created as part of an emotional reel where the journey begins with a fe
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Lucide Icons](https://lucide.dev/)
-
 ---
 
 ## 🔧 Setup
-
 To run this project locally:
 
 ```bash
